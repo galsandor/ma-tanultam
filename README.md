@@ -1,6 +1,7 @@
-# React Web Development Project
+# Full-Stack Webalkalmazás (React + Supabase)
 
 Ez a projekt egy **React alapú webalkalmazás**, amelyet a tanfolyam alapján készítettem, és a következő lépéseken keresztül fejlesztettem:
+A projekt frontend része React segítségével készült, és a backend funkciókat egy online adatbázis és API, a [Supabase](https://supabase.com) biztosítja.
 
 ## Projekt áttekintés
 
