@@ -44,4 +44,6 @@ Ez a projekt egy **React alapú webalkalmazás**, amelyet a tanfolyam alapján k
 ---
 
 Készen áll a projekt megosztásra és további fejlesztésre!
+
+---
 Gál Sándor
