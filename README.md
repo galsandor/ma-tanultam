@@ -5,28 +5,28 @@ Ez a projekt egy **React alapú webalkalmazás**, amelyet a tanfolyam alapján k
 ## Projekt áttekintés
 
 1. **Fejlesztői környezet beállítása**  
-   A kód szerkesztéséhez szükséges környezetet telepítettük (ingyenes eszközökkel).
+   A kód szerkesztéséhez szükséges környezetet egyedül állítottam be (ingyenes eszközökkel).
 
 2. **Webfejlesztés alapjai**  
-   Áttekintettük a web és a webfejlesztés alapjait.
+   A web és a webfejlesztés alapjait saját magam tanulmányoztam át.
 
 3. **HTML**  
-   A projekt tartalmát HTML segítségével hoztuk létre.
+   A projekt tartalmát HTML segítségével egyedül készítettem el.
 
 4. **CSS**  
-   A weboldal stílusát és elrendezését CSS-sel alakítottuk ki.
+   A weboldal stílusát és elrendezését CSS-sel saját magam alakítottam ki.
 
 5. **Adatbázis és API**  
-   Online adatbázist és API-t hoztunk létre a [Supabase](https://supabase.com) ingyenes szolgáltatásával.
+   Online adatbázist és API-t hoztam létre a [Supabase](https://supabase.com) ingyenes szolgáltatásával.
 
 6. **JavaScript**  
-   Interaktivitást adtunk az alkalmazáshoz a JavaScript alapjainak elsajátításával.
+   Interaktivitást adtam az alkalmazáshoz a JavaScript alapjainak elsajátításával.
 
 7. **React**  
-   Az alkalmazást React könyvtár segítségével építettük fel, hogy a JavaScript kód kezelése és az állapotkezelés könnyebb legyen.
+   Az alkalmazást a React könyvtár segítségével építettem fel, hogy a JavaScript kód kezelése és az állapotkezelés könnyebb legyen.
 
 8. **Deploy**  
-   A kész projektet a [Netlify](https://www.netlify.com) ingyenes szolgáltatására telepítettük, így a projekt URL-je megosztható bárkivel.
+   A kész projektet a [Netlify](https://www.netlify.com) ingyenes szolgáltatására telepítettem, így a projekt URL-je megosztható bárkivel.
 
 ## Használt technológiák
 
