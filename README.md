@@ -37,13 +37,14 @@ Ez a projekt egy **React alapú webalkalmazás**, amelyet a tanfolyam alapján k
 - Supabase (adatbázis és API)
 - Netlify (deploy)
 
-## Projekt URL
+## Élő Demo Link
+A projekt működő változatát az alábbi linken tekintheted meg:
 
-[https://ma-tanultam-galsandor.netlify.app/]
+[Élő demo](https://ma-tanultam-galsandor.netlify.app/)
 
 ---
 
 Készen áll a projekt megosztásra és további fejlesztésre!
 
----
+
 Gál Sándor
