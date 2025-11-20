@@ -44,7 +44,4 @@ A projekt működő változatát az alábbi linken tekintheted meg:
 
 ---
 
-Készen áll a projekt megosztásra és további fejlesztésre!
-
-
 Gál Sándor
