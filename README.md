@@ -1,70 +1,47 @@
-# Getting Started with Create React App
+# React Web Development Project
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Ez a projekt egy **React alapú webalkalmazás**, amelyet a tanfolyam alapján készítettem, és a következő lépéseken keresztül fejlesztettem:
 
-## Available Scripts
+## Projekt áttekintés
 
-In the project directory, you can run:
+1. **Fejlesztői környezet beállítása**  
+   A kód szerkesztéséhez szükséges környezetet telepítettük (ingyenes eszközökkel).
 
-### `npm start`
+2. **Webfejlesztés alapjai**  
+   Áttekintettük a web és a webfejlesztés alapjait.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+3. **HTML**  
+   A projekt tartalmát HTML segítségével hoztuk létre.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+4. **CSS**  
+   A weboldal stílusát és elrendezését CSS-sel alakítottuk ki.
 
-### `npm test`
+5. **Adatbázis és API**  
+   Online adatbázist és API-t hoztunk létre a [Supabase](https://supabase.com) ingyenes szolgáltatásával.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+6. **JavaScript**  
+   Interaktivitást adtunk az alkalmazáshoz a JavaScript alapjainak elsajátításával.
 
-### `npm run build`
+7. **React**  
+   Az alkalmazást React könyvtár segítségével építettük fel, hogy a JavaScript kód kezelése és az állapotkezelés könnyebb legyen.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+8. **Deploy**  
+   A kész projektet a [Netlify](https://www.netlify.com) ingyenes szolgáltatására telepítettük, így a projekt URL-je megosztható bárkivel.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## Használt technológiák
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+- HTML5
+- CSS3
+- JavaScript (ES6+)
+- React
+- Supabase (adatbázis és API)
+- Netlify (deploy)
 
-### `npm run eject`
+## Projekt URL
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+[https://ma-tanultam-galsandor.netlify.app/]
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+---
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Készen áll a projekt megosztásra és további fejlesztésre!
+Gál Sándor
