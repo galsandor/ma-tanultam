@@ -3,6 +3,25 @@
 Ez a projekt egy **React alapú webalkalmazás**, amelyet a tanfolyam alapján készítettem, és a következő lépéseken keresztül fejlesztettem:
 A projekt frontend része React segítségével készült, és a backend funkciókat egy online adatbázis és API, a [Supabase](https://supabase.com) biztosítja.
 
+## Projekt leírás
+
+Ez a projekt életem első **teljesen önállóan felépített, full-stack, React + Supabase** alapú webalkalmazása, amelyet „Ma tanultam!” néven publikáltam.
+A cél egy olyan rendszer létrehozása volt, ahol a felhasználók:
+ - **megoszthatnak egy új, általuk tanult tényt** egy űrlapon keresztül,
+ - a tényeket a **Supabase** adatbázisa tárolja,
+ - minden feltöltött tényre **szavazni lehet**:
+   - 👍 Tetszik
+   – 👎 Nem értek egyet
+
+A projekt minden fő funkcióját **egyedül valósítottam meg**, beleértve:
+ - az adatbázis struktúrájának kialakítását,
+ - az API-kommunikáció megírását,
+ - a React komponensek és az állapotkezelés felépítését,
+ - a teljes front-end logikát,
+ - valamint a deploy folyamatát a Netlify-ra.
+
+Ez volt az **első olyan alkalmazásom**, ahol az adatbázis, az API-hívások, a komponensek és a felhasználói interakciók **tökéletesen, stabilan együtt működtek**.
+
 ## Projekt áttekintés
 
 1. **Fejlesztői környezet beállítása**  
