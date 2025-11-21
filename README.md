@@ -10,8 +10,7 @@ A cél egy olyan rendszer létrehozása volt, ahol a felhasználók:
  - **megoszthatnak egy új, általuk tanult tényt** egy űrlapon keresztül,
  - a tényeket a **Supabase** adatbázisa tárolja,
  - minden feltöltött tényre **szavazni lehet**:
-   - 👍 Tetszik
-   – 👎 Nem értek egyet
+   - **👍 Tetszik** vagy **⛔ Nem értek egyet**
 
 A projekt minden fő funkcióját **egyedül valósítottam meg**, beleértve:
  - az adatbázis struktúrájának kialakítását,
